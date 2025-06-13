@@ -1,4 +1,3 @@
 # Mehdi-firstrepo
-this is my first repository.
-<br>
+this is my first repository.  
 Author- Mehdi Laskar
